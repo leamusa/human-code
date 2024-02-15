@@ -1,12 +1,14 @@
 # instruction
 
-PREPARARE LE LASAGNE
+Preparare le lasagne alla bolognese
+L’ingrediente segreto
+Chissà perché, per quanto ci provi e segua alla lettera la ricetta, non vengono mai come quelle di nonna! Ho studiato alla perfezione tutti gli ingredienti, le quantità, i tempi e modalità di cottura, ma alla fine le lasagne della nonna sono sempre di un altro livello!
 
 ## Steps - lista step principali
 
 Siamo in cucina
 
-- Step 1 Consultare la ricetta nel ricettario
+- Step 1: Consultare la ricetta nel ricettario
 
   - Verificare ingredienti necessari
 
@@ -14,7 +16,7 @@ Siamo in cucina
 
     - ALTRIMENTI procurarsi gli ingredienti
 
-- Step 2 Prepare la postazione
+- Step 2 : Prepare la postazione
 
   - Pulire la postazione
 
@@ -23,7 +25,7 @@ Siamo in cucina
 
   - Preparare il materiale
 
-- Step 3 Preparare gli ingredienti
+- Step 3: Preparare gli ingredienti
 
   - Aprire il frigorifero
 
@@ -35,7 +37,7 @@ Siamo in cucina
 
   - Posarli sulla postazione
 
-- Step 4 Preparare il sugo
+- Step 4: Preparare il sugo
 
   - Taglio delle verdure
 
@@ -55,7 +57,7 @@ Siamo in cucina
 
     - Attendere 2 ore per la cottura
 
-- Step 5 Assemblare
+- Step 5: Assemblare
 
   - Prendere la teglia
 
@@ -69,7 +71,7 @@ Siamo in cucina
 
   - Aggiungere il parmigiano sull'ultimo strato
 
-- Step 6 Cuocere
+- Step 6: Cuocere
 
   - Accendere il forno
 
@@ -85,7 +87,7 @@ Siamo in cucina
   - SE la lasagna è cotta estrarre dal forno
   - ALTRIMENTI aggiungere 5 min al tempo di cottura
 
-- Step 7 Impiattare
+- Step 7 :Impiattare
 
   - Prendere i piatti
 
@@ -93,13 +95,13 @@ Siamo in cucina
 
   - Impiattare
 
-- Step 8 Servire
+- Step 8: Servire
 
   - Mettere piatti sul tavolo
 
-- Step 9 Assaggiare
+- Step 9: Assaggiare
 
 - Assaggiare
 
-- SE è buona commentare Ma alla fine le lasagne della nonna son sempre di un altro livello!
-- ALTRIMENTI commentare Le lasagne della nonna son più buone!
+- SE è buona commentare "Ma alla fine le lasagne della nonna son sempre di un altro livello!"
+- ALTRIMENTI commentare "Le lasagne della nonna son più buone!"
